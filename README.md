@@ -45,8 +45,6 @@ Git • Docker • Linux • GitHub • Postman
 
 ## 📌 Featured Projects
 
-> Replace these with your actual repositories for maximum impact
-
 - **Customer Segmentation System** – ML clustering model for behavioral analysis  
 - **Twitter Sentiment Analysis** – NLP pipeline for sentiment classification  
 - **Plant Disease Detection** – CNN-based image classification system  
@@ -66,7 +64,7 @@ Git • Docker • Linux • GitHub • Postman
 
 - GitHub: https://github.com/lenomed  
 - Email: lenomedmega@gmail.com  
-- LinkedIn: [add-your-link-here ](https://www.linkedin.com/in/ohabuenyi-ifeanyichukwu-0b1ba0400/) 
+- LinkedIn:(https://www.linkedin.com/in/ohabuenyi-ifeanyichukwu-0b1ba0400/) 
 
 ---
 
