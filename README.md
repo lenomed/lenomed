@@ -35,7 +35,7 @@ I focus on turning real-world problems into practical AI-driven systems.
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,js,dotnet,react,angular,flask,fastapi,pytorch,tensorflow,sklearn,pandas,numpy,docker,git,mongodb,mysql,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js,dotnet,angular,flask,fastapi,pytorch,tensorflow,sklearn,pandas,numpy,docker,git,mongodb,mysql,postgres,postman" />
 </p>
 
 ---
