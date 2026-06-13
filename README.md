@@ -34,14 +34,60 @@ I focus on turning real-world problems into practical AI-driven systems.
 
 ## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,js,dotnet,angular,flask,fastapi,pytorch,tensorflow,sklearn,pandas,numpy,docker,git,mongodb,mysql,postgres,postman" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="40"/> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" width="40"/> C# &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="40"/> JavaScript
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> PyTorch &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> TensorFlow &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40"/> Scikit-learn &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" width="40"/> Pandas
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40"/> FastAPI &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" width="40"/> Flask &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" width="40"/> .NET
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/> MySQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40"/> PostgreSQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> MongoDB
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="40"/> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/> Docker &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="40"/> Postman
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenomed&show_icons=true)
+<p align="center">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=lenomed&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenomed&layout=compact)
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenomed&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- AI Agents & LLM Applications  
+- Retrieval-Augmented Generation (RAG)  
+- Production Machine Learning Systems  
+- MLOps & Deployment Pipelines  
+- Quantitative Trading Systems  
