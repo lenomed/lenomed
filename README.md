@@ -59,16 +59,4 @@ I focus on turning real-world problems into practical AI-driven systems.
 
 ---
 
-## 🎓 Latest Projects
-
-Feel free to check out my repositories to see what I'm working on!
-
----
-
-## 💬 Let's Connect
-
-I'm always interested in collaborating on exciting AI/ML projects and discussing innovative solutions. Feel free to reach out!
-
----
-
-**Made with ❤️ by Lenomed**
+ 
