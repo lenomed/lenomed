@@ -1,79 +1,79 @@
 # Hi, I'm Lenomed 👋
 
-### AI Engineer | Machine Learning Engineer | Software Developer
+### AI Engineer | Software Developer | Machine Learning Enthusiast
 
-I build machine learning systems, AI-powered applications, and scalable backend solutions. My focus is on transforming data into intelligent products that solve real-world problems.
+I build intelligent systems, machine learning applications, and scalable backend solutions.  
+I focus on turning real-world problems into practical AI-driven systems.
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 Building AI applications with LLMs, RAG systems, and intelligent agents
-- 🧠 Experienced in Machine Learning, Deep Learning, and Data Analytics
-- ⚙️ Developing scalable APIs and backend services with Python and .NET
-- 📈 Interested in Algorithmic Trading, Quantitative Systems, and Automation
-- 🚀 Continuously learning AI Engineering and production ML deployment
+- 💻 **AI Engineer** focused on ML systems and backend development  
+- 🧠 **Passionate** about LLMs, automation, and intelligent agents  
+- ⚙️ **Interested** in scalable architecture and production AI systems  
+- 📊 **Exploring** data-driven solutions and algorithmic trading systems  
+- 🎯 **Goal:** Create impactful solutions that leverage cutting-edge AI technology
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/lenomed">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yourmail@gmail.com)
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cs,js" />
-</p>
+**Languages:**  
+![Python](https://skillicons.dev/icons?i=python)
+![C#](https://skillicons.dev/icons?i=cs)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
-### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+**Web & Backend:**  
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
+![.NET](https://skillicons.dev/icons?i=dotnet)
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet" />
-</p>
+**AI/ML:**  
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![NumPy](https://skillicons.dev/icons?i=numpy)
+![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenomed&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenomed&layout=compact&theme=transparent" />
-</p>
+**Databases & Tools:**  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
-### Current Focus
+## 📈 GitHub Stats
 
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- LLM Applications
-- MLOps & Model Deployment
-- Quantitative Trading Systems
+![Lenomed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenomed&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenomed&layout=compact&theme=dark)
+
+---
+
+## 🎓 Latest Projects
+
+Feel free to check out my repositories to see what I'm working on!
+
+---
+
+## 💬 Let's Connect
+
+I'm always interested in collaborating on exciting AI/ML projects and discussing innovative solutions. Feel free to reach out!
+
+---
+
+**Made with ❤️ by Lenomed**
