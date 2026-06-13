@@ -1,6 +1,6 @@
 # Hi, I'm Lenomed 👋
 
-### AI Engineer | Software Developer | Machine Learning Enthusiast
+### Machine Learning Engineer | AI Engineer | Backend Developer
 
 I build intelligent systems, machine learning applications, and scalable backend solutions.  
 I focus on turning real-world problems into practical AI-driven systems.
