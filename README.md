@@ -19,9 +19,9 @@ I focus on turning real-world problems into practical AI-driven systems.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohabuenyi-ifeanyichukwu-0b1ba0400/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/megamordera)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenomedmega@gmail.com)
 
 ---
 
