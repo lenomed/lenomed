@@ -16,11 +16,27 @@ I focus on turning real-world problems into practical AI-driven systems.
 
 ---
 
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
-Python • C# • JavaScript • .NET • FastAPI • Flask • React • Angular •  
-PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy •  
-MongoDB • MySQL • SQL Server • Docker • Git • Postman  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,js,dotnet,react,angular,flask,fastapi,pytorch,tensorflow,sklearn,pandas,numpy,docker,git,mongodb,mysql,postgres,postman" />
+</p>
 
 ---
 
@@ -29,9 +45,3 @@ MongoDB • MySQL • SQL Server • Docker • Git • Postman
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenomed&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenomed&layout=compact)
-
----
-
-## 📫 Contact
-
-GitHub • LinkedIn • Twitter • Email
