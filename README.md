@@ -1,60 +1,32 @@
 # Hi, I'm Lenomed 👋
 
-### Software Developer | Machine Learning Engineer | Forex & Synthetic Trader
+### AI Engineer | Software Developer | Machine Learning Enthusiast
 
-I build scalable backend systems, machine learning solutions, and data-driven applications.  
-My focus is on turning real-world problems into reliable, production-ready systems.
+I build intelligent systems, machine learning applications, and scalable backend solutions.  
+I focus on turning real-world problems into practical AI-driven systems.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Developer specializing in backend systems and data-driven applications
-- 🧠 Machine Learning & AI Engineering enthusiast
-- 📊 Forex & Synthetic Indices Trader
-- ⚙️ Passionate about system design, automation, and intelligent agents
-- 🌍 Interested in building impactful, scalable tech products
+- 💻 AI Engineer focused on ML systems and backend development  
+- 🧠 Passionate about LLMs, automation, and intelligent agents  
+- ⚙️ Interested in scalable architecture and production AI systems  
+- 📊 Exploring data-driven solutions and algorithmic trading systems  
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
-Python • JavaScript • C# • SQL
-
-### Backend & APIs
-FastAPI • Flask • .NET • Node.js • REST APIs
-
-### Data & ML
-Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
-
-### Tools & Platforms
-Git • Docker • Linux • GitHub • Postman
-
----
-
-## 🧠 Core Interests
-
-- Machine Learning Systems (training → deployment → monitoring)
-- AI Agents and LLM-powered applications
-- Data Engineering pipelines
-- Financial markets & algorithmic trading systems
-- Scalable backend architectures
-
----
-
-## 📌 Featured Projects
-
-- **Customer Segmentation System** – ML clustering model for behavioral analysis  
-- **Twitter Sentiment Analysis** – NLP pipeline for sentiment classification  
-- **Plant Disease Detection** – CNN-based image classification system  
-- **Data Capstone Projects** – End-to-end data analysis and visualization work  
+Python • C# • JavaScript • .NET • FastAPI • Flask • React • Angular •  
+PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy •  
+MongoDB • MySQL • SQL Server • Docker • Git • Postman  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenomed&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenomed&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenomed&layout=compact)
 
@@ -62,19 +34,4 @@ Git • Docker • Linux • GitHub • Postman
 
 ## 📫 Contact
 
-- GitHub: https://github.com/lenomed  
-- Email: lenomedmega@gmail.com  
-- LinkedIn:(https://www.linkedin.com/in/ohabuenyi-ifeanyichukwu-0b1ba0400/) 
-
----
-
-## ⚡ Current Focus
-
-Building AI engineering projects that combine:
-- LLMs + APIs + real-world datasets
-- Practical machine learning systems
-- Trading-related analytics and automation tools
-
----
-
-> “Build systems that don’t just work — but scale, adapt, and learn.”
+GitHub • LinkedIn • Twitter • Email
