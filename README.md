@@ -19,13 +19,13 @@ I focus on turning real-world problems into practical AI-driven systems.
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://linkedin.com">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/ohabuenyi-ifeanyichukwu-0b1ba0400/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com">
+  <a href="https://twitter.com/megamordera">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:lenomedmega@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
