@@ -50,9 +50,9 @@ I focus on turning real-world problems into practical AI-driven systems.
 
 ## 📈 GitHub Stats
 
-![Lenomed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenomed&show_icons=true&theme=dark)
+![Lenomed's GitHub Stats](https://github-readme-stats-lenomed.vercel.app/api?username=lenomed&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenomed&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-lenomed.vercel.app/api/top-langs/?username=lenomed&layout=compact&theme=dark)
 
 ---
 
